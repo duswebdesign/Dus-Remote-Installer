@@ -5,8 +5,8 @@ set_time_limit( 0 );
 error_reporting( E_ALL );
 
 // GitHub Information
-define( 'GITHUB_USERNAME' , 'lucanos' );
-define( 'GITHUB_PROJECT'  , 'WordPress-Remote-Installer' );
+define( 'GITHUB_USERNAME' , 'duswebdesign' );
+define( 'GITHUB_PROJECT'  , 'Dus-Remote-Installer' );
 
 // Version Information
 define( 'WPRI_VERSION'    , '0.4.1' );
