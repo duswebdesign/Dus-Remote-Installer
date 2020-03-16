@@ -1,7 +1,3 @@
-https://downloads.wordpress.org/plugin/debug-this.zip
-https://downloads.wordpress.org/plugin/developer.1.2.5.zip
-https://downloads.wordpress.org/plugin/wpremote.2.7.6.zip
-https://downloads.wordpress.org/plugin/duplicator.0.5.24.zip
-https://downloads.wordpress.org/plugin/google-analyticator.6.4.9.4.zip
-https://downloads.wordpress.org/plugin/page-links-to.2.9.6.zip
-https://downloads.wordpress.org/plugin/theme-check.20141222.1.zip
+https://downloads.wordpress.org/plugin/wp-smushit.3.6.1.zip
+https://downloads.wordpress.org/plugin/better-wp-security.7.6.1.zip
+https://downloads.wordpress.org/plugin/seo-by-rank-math.1.0.40.zip
